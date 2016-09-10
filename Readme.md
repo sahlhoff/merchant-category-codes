@@ -4,11 +4,11 @@ Merchant Category Codes provides context to transaction merchant codes. See [wik
 
 # Install
 
-`npm i`
+`npm i merchant-category-code`
 
 # Usage
 
 ```
-var merchantCode = require('merchantCode');  
-console.log(merchantCode(1731));  
+var mcc = require('merchant-category-code');  
+console.log(mcc(1731));  
 ```

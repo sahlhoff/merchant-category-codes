@@ -1,5 +1,5 @@
 {
-  "name": "merchant-category-codes",
+  "name": "merchant-category-code",
   "version": "1.0.0",
   "description": "",
   "main": "./src/index.js",
