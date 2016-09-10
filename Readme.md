@@ -1,4 +1,4 @@
-# Merchant Category Codes
+# Merchant Category Code
 Merchant Category Codes provides context to transaction merchant codes. See [wikipedia](https://en.wikipedia.org/wiki/Standard_Industrial_Classification) for more information.  
 
 
